@@ -22,4 +22,6 @@ switch (dayNumber) {
     case 6:
         console.log("Saturday");
         break;
+    default:
+        console.log("Invalid day number");
 }
